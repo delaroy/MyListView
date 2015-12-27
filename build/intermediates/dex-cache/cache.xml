@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Shade\Desktop\MyListView1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-e849bc26d4efd9b7f86fe2f331ebd71618a3b224.jar" />
+    </item>
+
+</items>
